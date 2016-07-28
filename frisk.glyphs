@@ -1,5 +1,8 @@
 {
 .appVersion = "895";
+DisplayStrings = (
+"davon gewonnen down"
+);
 copyright = "Copyright © 2016 by Richard Tucker. All rights reserved.";
 customParameters = (
 {
@@ -17796,19 +17799,20 @@ interpolationWeight = 200;
 instanceInterpolations = {
 "B4604C5D-F439-46D0-AEF0-55E4508ED162" = 1;
 };
-isBold = 1;
 linkStyle = Regular;
 name = Bold;
-weightClass = Bold;
+weightClass = SemiBold;
 },
 {
-interpolationWeight = 300;
+interpolationWeight = 250;
 instanceInterpolations = {
-UUID0 = -1;
-"B4604C5D-F439-46D0-AEF0-55E4508ED162" = 2;
+UUID0 = -0.5;
+"B4604C5D-F439-46D0-AEF0-55E4508ED162" = 1.5;
 };
+isBold = 1;
+linkStyle = Regular;
 name = Ultra;
-weightClass = UltraBold;
+weightClass = Bold;
 }
 );
 kerning = {
